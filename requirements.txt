@@ -1,0 +1,12 @@
+opencv-python
+PyQt5
+numpy
+pandas
+openpyxl
+joblib
+matplotlib
+#tensorflow
+scikit-image
+jinja2
+pdfkit
+pyinstaller
