@@ -2,9 +2,6 @@
 
 This program is a solution for digitization of ferrography workloads, which includes among other things automatic analysis of images, actions to take, record keeping, graph generation.
 
-## Authors
-Baruch Rutman (@peterooch)  
-Roi Amzallag (@roiamz)
 
 ### Required Packages
 OpenCV for Python, PyQt5, NumPy, pandas, openpyxl, joblib, matplotlib, scikit-image, jinja2, pdfkit
